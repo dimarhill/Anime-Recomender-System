@@ -4,7 +4,7 @@
 
 ## Problem Statement
 ---
-The goal of this project was to provide recommendations to a user based on user inputs. It uses a dataset of user based anime reviews and will provide recommendations based on similarities. The end goal is for this recommender system to have the highest accuracy possible. This will help users easily select anime of their choice to watch. Building a better anime recommendation system based only on user viewing history should yield the best results and thats what the aim is for this project.
+The objective of this project is to create an accurate anime recommendation system that utilizes user-based anime reviews. This system will leverage a dataset of anime reviews to identify similarities between user preferences and provide personalized recommendations based on these similarities. The primary aim is to enhance the accuracy of the recommendation system, thereby enabling users to select the most suitable anime to watch with ease. The project's strategy involves building an anime recommendation model that relies solely on user viewing history as the basis for generating recommendations, as this approach is anticipated to yield optimal results.
 
 ## Executive Summary
 ---
